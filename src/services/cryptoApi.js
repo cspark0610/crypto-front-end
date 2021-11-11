@@ -3,7 +3,7 @@ import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react';
 
 const cryptoApiHeaders = {
   'x-rapidapi-host': 'coinranking1.p.rapidapi.com',
-  'x-rapidapi-key': '471f381503mshcc67ec1325d80eep1e166djsn836c2fa790cd'
+  'x-rapidapi-key': '[your own key]'
 };
 //then hide keys in ENV.variables
 
